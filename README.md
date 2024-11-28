@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Media Customer Checkout** is a full-stack application that allows a store to manage its customer base and media library (movies and music). The system tracks customer rentals, inventory management, and returns, ensuring that customers are flagged if they do not return their media on time. This project uses a database to store and retrieve information about customers, media items, and transactions.
+**Media Customer Checkout** allows a store to manage its customer base and media library (movies and music). The system tracks customer rentals, inventory management, and returns, ensuring that customers are flagged if they do not return their media on time. This project uses a database to store and retrieve information about customers, media items, and transactions.
 
 The application allows:
 - **Customers** to check out media (both movies and music).
